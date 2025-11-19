@@ -76,7 +76,7 @@ annotations[3]{id,image_url,label,confidence,time_spent_sec,validated}:
 - **TOON format**: ~62,000 tokens = $9.30 per batch
 - **Savings**: $8.10 per batch (46.5%)
 
-#### At Scale (Friday AI Example)
+#### At Scale (a typical annotation platform Example)
 - **Monthly batches**: 500
 - **Monthly savings**: $4,050
 - **Annual savings**: $48,600
@@ -158,6 +158,4 @@ toon-cli annotations.json -o annotations.toon --stats
 
 ---
 
-**Created by**: [Swamy Gadila](https://github.com/swamy18) | Friday AI  
-**Date**: November 2025  
-**Use Case**: Data Annotation Cost Optimization
+**Created by**: [Swamy Gadila](https://github.com/swamy18) 
